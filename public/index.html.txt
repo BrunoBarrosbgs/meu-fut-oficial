@@ -1,23 +1,9 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Meu Site Incrível!</title>
-    <style>
-        body {
-            font-family: sans-serif;
-            background-color: #f0f8ff;
-            text-align: center;
-            margin-top: 100px;
-        }
-        h1 {
-            color: #4682b4;
-        }
-    </style>
+    <title>Meu Site Oficial!</title>
 </head>
 <body>
-    <h1>Bem-vindo ao Meu Site!</h1>
-    <p>Este é o meu projeto que logo estará na internet!</p>
-    <p>🚀🚀🚀</p>
+    <h1>FUNCIONOU! MEU SITE ESTÁ ONLINE!</h1>
 </body>
 </html>
